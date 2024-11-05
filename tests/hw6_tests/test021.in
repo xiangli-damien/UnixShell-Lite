@@ -1,0 +1,2 @@
+/usr/bin/sleep 10 & /usr/bin/bc -q cal.txt;
+exit 

@@ -1,0 +1,6 @@
+/usr/bin/cat test008.args;  /usr/bin/sleep 8 & /usr/bin/bc -q cal.txt
+
+
+
+ /usr/bin/sleep 5;
+

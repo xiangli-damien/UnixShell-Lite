@@ -1,0 +1,2 @@
+/usr/bin/bc -q cal.txt; /usr/bin/bc -q cal.txt
+exit
